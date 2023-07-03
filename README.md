@@ -52,7 +52,7 @@
 
 
 <!-- Frameworks -->
-<p>
+<!--<p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Next.js-white.svg?style=flat&logo=next.js&logoColor=black">
 </div>
@@ -64,6 +64,7 @@
 <p>
 <div align="center">
 	<img src="https://img.shields.io/badge/React.js-282c34?style=flat&logo=react&logoColor=61DAFB">
+	<img src="https://img.shields.io/badge/Next.js-white.svg?style=flat&logo=next.js&logoColor=black">
   	<img src="https://img.shields.io/badge/Material UI-007FFF.svg?style=flat&logo=mui&logoColor=white">
 	<img src="https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=flat&logo=scikitlearn&logoColor=3092c3">
 </div>
@@ -157,15 +158,15 @@
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/ishmam-hossain-98a343250/">
-    <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=ishmam00&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&border_radius=0">
-    <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmam00&theme=radical&hide_border=true&border_radius=0">
+    <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=ishmam00&show_icons=true&include_all_commits=true&theme=react&hide_border=true&border_radius=0">
+    <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmam00&theme=react&hide_border=true&border_radius=0">
   </a>
 </p>
 <br>
 
 <!-- Graph -->
 <!-- [![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tasinms&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-[![Ishmam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ishmam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Language Stats -->
 <p align="center">
@@ -182,9 +183,9 @@
 <!-- Statistics -->
 
 <!-- Ongoing Projects -->
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU2ZmM5NmY2MzVlZDAwMDlmZWIyNTQ0YjNlYTMwN2U0OGFlMjJlZCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Ongoing Projects
+<!--# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU2ZmM5NmY2MzVlZDAwMDlmZWIyNTQ0YjNlYTMwN2U0OGFlMjJlZCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Ongoing Projects-->
 <ul>
-	<li><i><a href="#">Dataset Creation</a></i><ul><li>Creating a Dataset of Movie Box Office Numbers using Python's BeautifulSoup Library</li></ul></li>
+	<!--<li><i><a href="#">Dataset Creation</a></i><ul><li>Creating a Dataset of Movie Box Office Numbers using Python's BeautifulSoup Library</li></ul></li>-->
 <!-- 	<li><i><a href="https://github.com/torrinworx/Blend_My_NFTs">Blend_My_NFTs</a></i> :<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
 	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i> :<ul><li>A website that enables easy cloud rendering and NFT minting and storage from the web or withing Blender using our Cozy API. (Yet to be released)</li></ul></li>
 	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li> -->
