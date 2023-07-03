@@ -158,21 +158,21 @@
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/ishmam-hossain-98a343250/">
-    <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=ishmam00&show_icons=true&include_all_commits=true&theme=react&hide_border=true&border_radius=0">
-    <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmam00&theme=react&hide_border=true&border_radius=0">
+    <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=ishmam00&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true&border_radius=0">
+    <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmam00&theme=prussian&hide_border=true&border_radius=0">
   </a>
 </p>
 <br>
 
 <!-- Graph -->
 <!-- [![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tasinms&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-[![Ishmam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ishmam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=prussian&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Language Stats -->
 <p align="center">
   <a href="https://wakatime.com/@ishmam00">
 <!--     <img width="41.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasinms&theme=radical&bg_color=141321&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0"> -->
-		<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ishmam00&langs_count=6&theme=react&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=0">
+		<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ishmam00&langs_count=6&theme=prussian&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=0">
   </a>
 </p>
 
