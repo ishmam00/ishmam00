@@ -172,7 +172,7 @@
 <p align="center">
   <a href="https://wakatime.com/@ishmam00">
 <!--     <img width="41.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasinms&theme=radical&bg_color=141321&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0"> -->
-		<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ishmam00&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=0">
+		<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ishmam00&langs_count=6&theme=react&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=0">
   </a>
 </p>
 
