@@ -114,8 +114,7 @@
 <!-- WakaTime -->
 <p>
 <div align="center">
-	<a href="https://wakatime.com/@24163afc-2894-457c-8a8a-1218b958ad0b">
-	<img src="https://wakatime.com/badge/user/24163afc-2894-457c-8a8a-1218b958ad0b.svg" alt="Total time coded since Mar 12 2023" /></a>
+	<a href="https://wakatime.com/@58e5ccb1-6d43-4275-a2cf-79f3d22ca0d9"><img src="https://wakatime.com/badge/user/58e5ccb1-6d43-4275-a2cf-79f3d22ca0d9.svg" alt="Total time coded since Nov 18 2022" /></a>
 </div>
 </p>
 <!-- WakaTime -->
@@ -134,14 +133,13 @@
 		     style="max-width: 100%;">
 	</a>
 	<a href="https://www.facebook.com/ishmam00" rel="nofollow" target="_blank">
-	 	<img alt="Ishmam's Facebook" width="25px" src="./facebook-color.svg" 
-		     style="max-width: 100%;">
+	 	<svg fill="#1877F2" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Facebook</title><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
 	</a>
 <!-- 	<a href="#" rel="nofollow" target="_blank">
   		<img alt=" Tasin's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" 
 		     style="max-width: 100%;">
 	</a> -->
-	<a href="https://www.linkedin.com/in/ishmam-hossain-98a343250/" rel="nofollow" target="_blank">
+	<a href="https://www.linkedin.com/in/ishmam00/" rel="nofollow" target="_blank">
   		<img alt="Ishmam's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
 				style="max-width: 100%;">
 	</a>
@@ -180,7 +178,7 @@
   </a>
 </p>
 
-<!-- [![tasins's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&theme=radical&layout=compact&hide_border=true)](https://github.com/tasinms) -->
+<!--[![Ishmam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ishmam00&theme=radical&layout=compact&hide_border=true)](https://github.com/tasinms)-->
 
 <!-- Profile Visits -->
 <p align="center"><img src="https://profile-counter.glitch.me/{ishmam00}/count.svg"></p>
