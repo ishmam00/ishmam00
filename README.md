@@ -130,7 +130,7 @@
 <p>
 <div align="center">
 	<a href="https://www.facebook.com/ishmam00" rel="nofollow" target="_blank">
-	 	<img alt="Ishmam's Facebook" width="25px" src="./facebook-color.svg" 
+	 	<img alt="Ishmam's Facebook" width="25px" src="./facebook.png" 
 		     style="max-width: 100%;">
 	</a>
 	<a href="https://twitter.com/ishmam000" rel="nofollow" target="_blank">
