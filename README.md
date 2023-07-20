@@ -130,7 +130,7 @@
 <p>
 <div align="center">
 	<a href="https://www.facebook.com/ishmam00" rel="nofollow" target="_blank">
-	 	<img alt="Ishmam's Facebook" width="25px" src="./facebook-color.svg" 
+	 	<img alt="Ishmam's Facebook" width="25px" src="./facebook.svg" 
 		     style="max-width: 100%;">
 	</a>
 	<a href="https://twitter.com/ishmam000" rel="nofollow" target="_blank">
@@ -138,7 +138,7 @@
 		     style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/ishmam00/" rel="nofollow" target="_blank">
-  		<img alt="Ishmam's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
+  		<img alt="Ishmam's LinkedIn" width="25px" src="./linkedin.svg" 
 				style="max-width: 100%;">
 	</a>
 	<a href="https://stackoverflow.com/users/20541735/ishmam-hossain" rel="nofollow" target="_blank">
@@ -146,7 +146,7 @@
 				style="max-width: 100%;">
 	</a>
 	<a href="https://www.reddit.com/user/ishmam00" rel="nofollow" target="_blank">
-          <img alt="Ishmam's Reddit" width="25px" src="./reddit.png" 
+          <img alt="Ishmam's Reddit" width="25px" src="./reddit.svg" 
                 style="max-width: 100%;">
     </a>
 </div>
