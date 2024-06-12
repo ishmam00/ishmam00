@@ -1,8 +1,10 @@
 ![Header](./github-header-image-for-GitHub.png)
 
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ishmam;Aspiring+Software+Engineer;Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
+<!-- Typing SVG -->
 
 <!-- <p>
 <div align="center" target="_blank">
@@ -29,12 +31,13 @@
   </a>
 </p> -->
 
+
 <!-- Programming Languages -->
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF">
 </div>
 </p>
 <!-- Programming Languages -->
@@ -43,9 +46,9 @@
 <!-- Markup Languages -->
 <p>
 <div align="center">
-  	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white">
-  	<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white">
-	<img src="https://img.shields.io/badge/LaTex-FFFFFF.svg?style=flat&logo=latex&logoColor=008080">
+  	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  	<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+	<img src="https://img.shields.io/badge/LaTex-FFFFFF.svg?style=for-the-badge&logo=latex&logoColor=008080">
 </div>
 </p>
 <!-- Markup Languages -->
@@ -63,10 +66,10 @@
 <!-- Libraries -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/React.js-282c34?style=flat&logo=react&logoColor=61DAFB">
-	<img src="https://img.shields.io/badge/Next.js-white.svg?style=flat&logo=next.js&logoColor=black">
-  	<img src="https://img.shields.io/badge/Material UI-007FFF.svg?style=flat&logo=mui&logoColor=white">
-	<img src="https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=flat&logo=scikitlearn&logoColor=3092c3">
+	<img src="https://img.shields.io/badge/React.js-282c34?style=for-the-badge&logo=react&logoColor=61DAFB">
+	<img src="https://img.shields.io/badge/Next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black">
+	<img src="https://img.shields.io/badge/Tailwind_CSS-white.svg?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4">
+  	<img src="https://img.shields.io/badge/Material UI-007FFF.svg?for-the-badge=flat&logo=mui&logoColor=white">
 </div>
 </p>
 <!-- Libraries -->
@@ -96,8 +99,8 @@
 <!-- Operating Systems -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white">
-  	<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
+	<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
+  	<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 </p>
 <!-- Operating Systems -->
@@ -105,8 +108,8 @@
 <!-- Git -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white">
-  	<img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white">
+	<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  	<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
 </p>
 <!-- Git -->
@@ -196,9 +199,20 @@
 </ul>
 <!-- Ongoing Projects -->
 
+<!-- Academics -->
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWl0bXZ1M2ZwNWo4anJkemt6dmNja3gzMmlrZm96YmE0OGhmeDc1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"> Academics
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="Logos/BRACU Logo.png"/>](https://www.bracu.ac.bd/)
+[**BRAC University**](https://www.bracu.ac.bd/) \
+**BSc. in Computer Science and Engineering** • 2020-2024 \
+Skills: `Python` `HTML` `CSS` `JavaScript` `React` `Node.js` `Next.js` `MySQL` `Git`
+<!-- Academics -->
+
 <!-- About Me -->
 <!-- # <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> About Me
 
 Under Contruction 🚧 -->
 
 <!-- About Me -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:000046&height=100&section=footer"/>
