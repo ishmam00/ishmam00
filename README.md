@@ -69,7 +69,7 @@
 	<img src="https://img.shields.io/badge/React.js-282c34?style=for-the-badge&logo=react&logoColor=61DAFB">
 	<img src="https://img.shields.io/badge/Next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black">
 	<img src="https://img.shields.io/badge/Tailwind_CSS-white.svg?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4">
-  	<img src="https://img.shields.io/badge/Material UI-007FFF.svg?for-the-badge=flat&logo=mui&logoColor=white">
+  	<img src="https://img.shields.io/badge/Material UI-007FFF.svg?for-the-badge=&logo=mui&logoColor=white">
 </div>
 </p>
 <!-- Libraries -->
@@ -78,10 +78,10 @@
 <!-- Databases -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=black">
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white">
-	<img src="https://img.shields.io/badge/MongoDB-001e2b.svg?style=flat&logo=mongodb&logoColor=47A248">
-	<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=flat&logo=prisma&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black">
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+	<img src="https://img.shields.io/badge/MongoDB-001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=47A248">
+<!-- 	<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white"> -->
 </div>
 </p>
 <!-- Databases -->
