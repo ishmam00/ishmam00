@@ -67,7 +67,7 @@
 <p>
 <div align="center">
 	<img src="https://img.shields.io/badge/React.js-282c34?style=for-the-badge&logo=react&logoColor=61DAFB">
-	<img src="https://img.shields.io/badge/Next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black">
+	<img src="https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white">
 	<img src="https://img.shields.io/badge/Tailwind_CSS-white.svg?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4">
   	<img src="https://img.shields.io/badge/Material_UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white">
 </div>
