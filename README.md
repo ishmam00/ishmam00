@@ -204,7 +204,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="Logos/BRACU Logo.png"/>](https://www.bracu.ac.bd/)
 [**BRAC University**](https://www.bracu.ac.bd/) \
-**BSc. in Computer Science and Engineering** • 2020-2024 \
+**BSc in Computer Science and Engineering** • 2020-2024 \
 Skills: `Python` `HTML` `CSS` `JavaScript` `React` `Node.js` `Next.js` `MySQL` `Git`
 <!-- Academics -->
 
