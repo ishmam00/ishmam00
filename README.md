@@ -166,15 +166,15 @@
 <!-- Github Stats -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ishmam-hossain-98a343250/">
-    <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=ishmam00&show_icons=true&include_all_commits=true&theme=react&hide_border=true&border_radius=5">
-    <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmam00&theme=react&hide_border=true&border_radius=5">
+    <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=ishmam00&show_icons=true&include_all_commits=true&theme=react&hide_border=true&border_radius=10">
+    <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmam00&theme=react&hide_border=true&border_radius=10">
   </a>
 </p>
 
 <!-- Graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=react&hide_border=true&radius=5">
+	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=react&hide_border=true&radius=10">
   </a>
 </p>
 
