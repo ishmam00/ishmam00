@@ -172,8 +172,11 @@
 <br>
 
 <!-- Graph -->
-<!-- [![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tasinms&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-[![Ishmam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=react&hide_border=true&radius=10">
+  </a>
+</p>
 
 <!-- Language Stats -->
 <p align="center">
