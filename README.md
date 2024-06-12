@@ -118,7 +118,9 @@
 <!-- WakaTime -->
 <p>
 <div align="center">
-	<a href="https://wakatime.com/@58e5ccb1-6d43-4275-a2cf-79f3d22ca0d9"><img src="https://wakatime.com/badge/user/58e5ccb1-6d43-4275-a2cf-79f3d22ca0d9.svg" alt="Total time coded since Nov 18 2022" /></a>
+	<a href="https://wakatime.com/@58e5ccb1-6d43-4275-a2cf-79f3d22ca0d9">
+	<img src="https://wakatime.com/badge/user/58e5ccb1-6d43-4275-a2cf-79f3d22ca0d9.svg" alt="Total time coded since Nov 18 2022" />
+	</a>
 </div>
 </p>
 <!-- WakaTime -->
@@ -162,19 +164,17 @@
 
 
 <!-- Github Stats -->
-<br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/ishmam-hossain-98a343250/">
     <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=ishmam00&show_icons=true&include_all_commits=true&theme=react&hide_border=true&border_radius=5">
     <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmam00&theme=react&hide_border=true&border_radius=5">
   </a>
 </p>
-<br>
 
 <!-- Graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=react&hide_border=true&radius=10">
+	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishmam00&theme=react&hide_border=true&radius=5">
   </a>
 </p>
 
